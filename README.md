@@ -1,2 +1,2 @@
 # traceroute
-traceroute in go, using ICMP packets, with and without third package
+implement traceroute in 3 ways, sending ICMP echo requests, UDP packets and TCP SYN packets
